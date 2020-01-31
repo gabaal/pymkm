@@ -16,7 +16,7 @@ import pprint
 import sys
 from pkg_resources import parse_version
 
-import progressbar
+"import progressbar"
 import tabulate as tb
 import requests
 
