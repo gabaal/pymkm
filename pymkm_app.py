@@ -17,7 +17,7 @@ import sys
 from pkg_resources import parse_version
 
 "import progressbar"
-import tabulate as tb
+from tabulate import tabulate as tb
 import requests
 
 from pymkm_helper import PyMkmHelper
